@@ -40,7 +40,7 @@ Some projects may be polished, while others may simply be quick experiments crea
 ```text
 .
 ├── JAVA/
-│   ├── script_1.py
+│   ├── app.py
 │   ├── online.py
 │   └── ...
 └── README.md
