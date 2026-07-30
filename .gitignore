@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Java
+*.java
+*.class
+
+# Audio / Media
+*.wav
+*.mp3
+
+# Other temp files
+.aider*
+data.dat
+test.txt
