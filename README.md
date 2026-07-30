@@ -41,7 +41,7 @@ Some projects may be polished, while others may simply be quick experiments crea
 .
 ├── JAVA/
 │   ├── script_1.py
-│   ├── .py
+│   ├── online.py
 │   └── ...
 └── README.md
 ```
