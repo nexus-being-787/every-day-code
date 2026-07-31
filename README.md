@@ -41,7 +41,7 @@ Some projects may be polished, while others may simply be quick experiments crea
 ```text
 .
 ├── JAVA/
-│   ├── app.py
+│   ├── app.py(streamlite code for ai chat UI)
 │   ├── online.py
 │   └── ...
 └── README.md
